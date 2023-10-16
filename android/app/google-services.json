@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "539404204308",
+    "project_id": "routeme-7dd3e",
+    "storage_bucket": "routeme-7dd3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539404204308:android:a2f38e8de0baa8f5b3aa01",
+        "android_client_info": {
+          "package_name": "com.example.routeme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539404204308-jgv9goa384qq8v0vaauvk79qlmd89mso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX3jRvxmxU3uRnSCKhBgdZH1IMTgq3UWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539404204308-jgv9goa384qq8v0vaauvk79qlmd89mso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
